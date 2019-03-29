@@ -1,0 +1,9 @@
+C:\Company\Lotto_1\Lotto\BLL\bin\Debug\BLL.dll
+C:\Company\Lotto_1\Lotto\BLL\bin\Debug\BLL.pdb
+C:\Company\Lotto_1\Lotto\BLL\bin\Debug\DAL.dll
+C:\Company\Lotto_1\Lotto\BLL\bin\Debug\MySql.Data.dll
+C:\Company\Lotto_1\Lotto\BLL\bin\Debug\DAL.pdb
+C:\Company\Lotto_1\Lotto\BLL\bin\Debug\MySql.Data.xml
+C:\Company\Lotto_1\Lotto\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Company\Lotto_1\Lotto\BLL\obj\Debug\BLL.dll
+C:\Company\Lotto_1\Lotto\BLL\obj\Debug\BLL.pdb

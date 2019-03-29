@@ -1,0 +1,8 @@
+C:\Company\Lotto_1\Lotto\DAL\bin\Debug\DAL.dll
+C:\Company\Lotto_1\Lotto\DAL\bin\Debug\DAL.pdb
+C:\Company\Lotto_1\Lotto\DAL\bin\Debug\MySql.Data.dll
+C:\Company\Lotto_1\Lotto\DAL\bin\Debug\MySql.Data.xml
+C:\Company\Lotto_1\Lotto\DAL\obj\Debug\DAL.dll
+C:\Company\Lotto_1\Lotto\DAL\obj\Debug\DAL.pdb
+C:\Company\Lotto_1\Lotto\DAL\bin\Debug\EPPlus.dll
+C:\Company\Lotto_1\Lotto\DAL\bin\Debug\EPPlus.xml

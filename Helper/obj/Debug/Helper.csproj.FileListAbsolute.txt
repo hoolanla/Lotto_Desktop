@@ -1,0 +1,4 @@
+C:\Company\Lotto_1\Lotto\Helper\bin\Debug\Helper.dll
+C:\Company\Lotto_1\Lotto\Helper\bin\Debug\Helper.pdb
+C:\Company\Lotto_1\Lotto\Helper\obj\Debug\Helper.dll
+C:\Company\Lotto_1\Lotto\Helper\obj\Debug\Helper.pdb

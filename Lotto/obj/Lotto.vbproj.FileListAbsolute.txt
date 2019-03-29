@@ -1,0 +1,16 @@
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\ResolveAssemblyReference.cache
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.Resources.resources
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.vbproj.GenerateResource.Cache
+D:\Company\Lotto_1\Lotto\Lotto\bin\Debug\Lotto.exe.config
+D:\Company\Lotto_1\Lotto\Lotto\bin\Debug\Lotto.exe
+D:\Company\Lotto_1\Lotto\Lotto\bin\Debug\Lotto.pdb
+D:\Company\Lotto_1\Lotto\Lotto\bin\Debug\Lotto.xml
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.exe
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.xml
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.pdb
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.frmSetting.resources
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.FrmMain.resources
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.frmCalPay.resources
+D:\Company\Lotto_1\Lotto\Lotto\bin\Debug\Interop.Excel.dll
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Interop.Excel.dll
+D:\Company\Lotto_1\Lotto\Lotto\obj\Debug\Lotto.vbproj.ResolveComReference.cache
